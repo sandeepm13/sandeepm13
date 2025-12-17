@@ -4,7 +4,7 @@
 
   <br /><br />
 
-  <h3 style="margin:0 0 0.4rem 0; color:#8B949E; font-weight:600;">Hi, I'm Sandeep Mopuri</h3>
+  <h3 style="margin:0 0 0.4rem 0; color:#8B949E; font-weight:600;">Hi, I'm</h3>
   <h1 style="font-weight:700; font-size:2.6rem; margin:0;">
     <span style="background: linear-gradient(90deg,#00F5FF,#7C3AED); -webkit-background-clip:text; background-clip:text; color:transparent;">
       Sandeep&nbsp;Mopuri
